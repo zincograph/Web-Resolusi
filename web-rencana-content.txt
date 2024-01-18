@@ -1,6 +1,8 @@
 Rencana Konten Web
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
