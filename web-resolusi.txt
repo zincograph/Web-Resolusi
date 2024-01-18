@@ -3,3 +3,5 @@ Web Resolusi
 - Membuat aplikasi Onsite
 - Membuat aplikasi PCR
 - Membuat aplikasi MIS
+- Perubahan 1
+- Perubahan 2
